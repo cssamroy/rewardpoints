@@ -1,0 +1,28 @@
+# Rewards Calculator 
+
+This is a React application that calculates reward points for customers based on their transaction history.
+
+## Project Description
+
+In this project, a customer's reward points are calculated based on each recorded purchase. They receive:
+
+- 2 points for every dollar spent over $100 in each transaction
+- 1 point for every dollar spent between $50 and $100 in each transaction
+
+This project also includes a simulation of fetching transaction data from an API, and the calculation of the reward points per transaction, which are then accumulated per month and in total for each customer.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+Ensure that you have the following installed on your local machine:
+
+- Node.js
+- npm
+
+### Installation 
+
+Clone the repo:
+
